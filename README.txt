@@ -6,7 +6,7 @@ Tested with IDA 6.1 (should work in 6+, but differences in IDApython API are
 possible, if you run into problems drop me a mail).
 
 For quick intro check files in Usage section.
-
+dgdtrjd
 Usage:
 ------
 Video version: http://optimice.googlecode.com/files/optimice.zip
